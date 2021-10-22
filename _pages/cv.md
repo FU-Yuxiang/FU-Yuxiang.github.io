@@ -41,10 +41,12 @@ Publications
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Teaching Assistant for ELEC-4310 "Embedded System Design" in HKUST, 02/21 ~ 06/21
+* Teaching Assistant for ELEC-4310 "CMOS VLSI Design" in HKUST, 09/21 ~ now
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Secretary of the League branch of the class 1, grade 2016, School of Electronic Science and Engineering 2016-2017
+* President of Youth Volunteer Association, School of Electronic Science and Engineering 2017-2018
+* Secretary of the League general branch of the grade 2017-2018
+* Grade Leader, School of Electronic Science and Engineering 2018–2019
